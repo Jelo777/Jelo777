@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jelo7&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jelo7&fontSize=90)
 
 # 안녕하세요 김준희입니다.
 
@@ -32,3 +32,6 @@
 ## Projects
 ### [세미 : CUDDLY](https://github.com/Jelo777/kh12-semi-cuddly)
 ### [파이널 : EveryFit](https://github.com/tpfkalrrltk/KH12-Final-4Jo)
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer)
