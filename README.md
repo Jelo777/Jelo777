@@ -30,5 +30,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junheef4)](https://solved.ac/junheef4/)
 
 ## Projects
-[세미 : CUDDLY](https://github.com/Jelo777/kh12-semi-cuddly)
-[파이널 : EveryFit](https://github.com/tpfkalrrltk/KH12-Final-4Jo)
+### [세미 : CUDDLY](https://github.com/Jelo777/kh12-semi-cuddly)
+### [파이널 : EveryFit](https://github.com/tpfkalrrltk/KH12-Final-4Jo)
