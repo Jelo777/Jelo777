@@ -28,3 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jelo777)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jelo777)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junheef4)](https://solved.ac/junheef4/)
+
+## Projects
+<a href="https://github.com/Jelo777/kh12-semi-cuddly" > <h3>세미 : CUDDLY</h3> </a>
+<a href="https://github.com/tpfkalrrltk/KH12-Final-4Jo" > <h3>파이널 : EveryFit</h3> </a>
